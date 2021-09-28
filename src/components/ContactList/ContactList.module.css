@@ -1,0 +1,8 @@
+.title {
+  padding-top: 30px;
+}
+.item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
